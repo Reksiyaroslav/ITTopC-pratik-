@@ -1,0 +1,6 @@
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Common\bin\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Common\bin\Debug\FifteenGame.Common.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Common\obj\Debug\FifteenGame.Common.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Common\obj\Debug\FifteenGame.Common.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Common\obj\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Common\obj\Debug\FifteenGame.Common.pdb
