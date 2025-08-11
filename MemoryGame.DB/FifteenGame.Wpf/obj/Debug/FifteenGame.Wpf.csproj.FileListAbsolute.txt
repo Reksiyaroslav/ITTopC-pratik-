@@ -57,3 +57,10 @@ C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\Fifte
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\FifteenG.60025469.Up2Date
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.exe
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\Views\UserLoginWindow.g.cs
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\App.g.cs
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.cache
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.lref

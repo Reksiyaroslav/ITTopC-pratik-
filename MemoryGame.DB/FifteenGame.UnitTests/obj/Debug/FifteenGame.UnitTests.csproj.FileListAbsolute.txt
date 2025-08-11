@@ -1,0 +1,2 @@
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.UnitTests\obj\Debug\FifteenGame.UnitTests.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.UnitTests\obj\Debug\FifteenGame.UnitTests.csproj.CoreCompileInputs.cache

@@ -40,3 +40,5 @@ C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\Fifte
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.DataAccess\obj\Debug\FifteenG.7C82ADBB.Up2Date
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.DataAccess\obj\Debug\FifteenGame.DataAccess.dll
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.DataAccess\obj\Debug\FifteenGame.DataAccess.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.DataAccess\obj\Debug\FifteenGame.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.DataAccess\obj\Debug\FifteenGame.DataAccess.csproj.CoreCompileInputs.cache

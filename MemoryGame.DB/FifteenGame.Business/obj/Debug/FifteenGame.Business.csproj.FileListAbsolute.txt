@@ -43,3 +43,5 @@ C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\Fifte
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Business\obj\Debug\FifteenG.4987BB63.Up2Date
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Business\obj\Debug\FifteenGame.Business.dll
 C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\MemoryGame.DB\FifteenGame.Business\obj\Debug\FifteenGame.Business.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Business\obj\Debug\FifteenGame.Business.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Документы\GitHub\ITTopC-pratik-\MemoryGame.DB\FifteenGame.Business\obj\Debug\FifteenGame.Business.csproj.CoreCompileInputs.cache

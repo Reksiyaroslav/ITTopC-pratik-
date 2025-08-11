@@ -1,0 +1,38 @@
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\ColorSp.Wpf.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\App.g.cs
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.cache
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.lref
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.exe
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.pdb
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.exe.config
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.exe
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.pdb
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Business.dll
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Business.pdb
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\MainWindow.baml
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.g.resources
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.Properties.Resources.resources
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\ColorSp.Wpf.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\ColorSp.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\ColorSp..5C1C2392.Up2Date
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.exe.config
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.exe
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Business.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\bin\Debug\FifteenGame.Business.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\ColorSp.Wpf.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\App.g.cs
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.lref
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\MainWindow.baml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.g.resources
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.Properties.Resources.resources
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\ColorSp.Wpf.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\ColorSp.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\ColorSp..5C1C2392.Up2Date
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.exe
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\FifteenGame.WpfYaroslav\FifteenGame.WpfYaroslav\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.pdb
