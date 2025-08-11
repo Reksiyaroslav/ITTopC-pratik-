@@ -43,12 +43,9 @@ namespace FifteenGame.Wpf.ViewModels
         }
         public void MakeMove(int[] colrow, Action gameFinishedAction)
         {
-            
-           
-               
-                FisrsbuutonRowCol = colrow;
+            FisrsbuutonRowCol = colrow;
                 
-                _gameModel = _gameService.MakeMove(_gameModel.Id,FisrsbuutonRowCol);
+            _gameModel = _gameService.MakeMove(_gameModel.Id,FisrsbuutonRowCol);
                
           
 

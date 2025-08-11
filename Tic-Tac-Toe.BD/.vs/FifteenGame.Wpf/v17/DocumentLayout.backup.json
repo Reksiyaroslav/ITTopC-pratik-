@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31478FA4-97D5-44FB-8239-D55A6FC77500}|FifteenGame.Business\\FifteenGame.Business.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.business\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31478FA4-97D5-44FB-8239-D55A6FC77500}|FifteenGame.Business\\FifteenGame.Business.csproj|c:\\users\\pc\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\tic-tac-toe.bd\\fifteengame.business\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31478FA4-97D5-44FB-8239-D55A6FC77500}|FifteenGame.Business\\FifteenGame.Business.csproj|solutionrelative:fifteengame.business\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62D6895-BEE1-4413-981F-1B1F26E27DD1}|FifteenGame.UnitTests\\FifteenGame.UnitTests.csproj|c:\\users\\pc\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\tic-tac-toe.bd\\fifteengame.unittests\\repositorytests\\gamerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\Tic-Tac-Toe.Wpf.csproj|c:\\users\\pc\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\tic-tac-toe.bd\\fifteengame.wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\Tic-Tac-Toe.Wpf.csproj|solutionrelative:fifteengame.wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|solutionrelative:fifteengame.wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\Tic-Tac-Toe.Wpf.csproj|c:\\users\\pc\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\tic-tac-toe.bd\\fifteengame.wpf\\viewmodels\\cellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\Tic-Tac-Toe.Wpf.csproj|solutionrelative:fifteengame.wpf\\viewmodels\\cellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.wpf\\viewmodels\\cellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|solutionrelative:fifteengame.wpf\\viewmodels\\cellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.dataaccess\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|solutionrelative:fifteengame.dataaccess\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D6895-BEE1-4413-981F-1B1F26E27DD1}|FifteenGame.UnitTests\\FifteenGame.UnitTests.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.unittests\\repositorytests\\gamerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62D6895-BEE1-4413-981F-1B1F26E27DD1}|FifteenGame.UnitTests\\FifteenGame.UnitTests.csproj|solutionrelative:fifteengame.unittests\\repositorytests\\gamerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{809EF8DA-2F01-4777-B96B-7A9DC6AF2BF9}|FifteenGame.Common\\FifteenGame.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.common\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{809EF8DA-2F01-4777-B96B-7A9DC6AF2BF9}|FifteenGame.Common\\FifteenGame.Common.csproj|solutionrelative:fifteengame.common\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|solutionrelative:fifteengame.wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|solutionrelative:fifteengame.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.dataaccess\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|solutionrelative:fifteengame.dataaccess\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.dataaccess\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|solutionrelative:fifteengame.dataaccess\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -52,10 +64,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{809EF8DA-2F01-4777-B96B-7A9DC6AF2BF9}|FifteenGame.Common\\FifteenGame.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.common\\definitions\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{809EF8DA-2F01-4777-B96B-7A9DC6AF2BF9}|FifteenGame.Common\\FifteenGame.Common.csproj|solutionrelative:fifteengame.common\\definitions\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.wpf\\viewmodels\\cellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ACB9997-98BE-4C41-B78E-8DCD689CA06A}|FifteenGame.Wpf\\FifteenGame.Wpf.csproj|solutionrelative:fifteengame.wpf\\viewmodels\\cellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\fifteengame.dataaccess\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,8 +129,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAGAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:10:57.929Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -131,7 +152,7 @@
               "RelativeDocumentMoniker": "FifteenGame.Business\\Services\\GameService.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Business\\Services\\GameService.cs",
               "RelativeToolTip": "FifteenGame.Business\\Services\\GameService.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAiwF4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T04:22:16.032Z",
               "EditorCaption": ""
@@ -139,6 +160,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:31:11.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CellViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
+              "RelativeDocumentMoniker": "FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
+              "RelativeToolTip": "FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:10:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CellViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
+              "RelativeDocumentMoniker": "FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
+              "RelativeToolTip": "FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:21:10.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.DataAccess\\app.config",
+              "RelativeDocumentMoniker": "FifteenGame.DataAccess\\app.config",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.DataAccess\\app.config",
+              "RelativeToolTip": "FifteenGame.DataAccess\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-11T16:48:04.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IGameService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\Services\\IGameService.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\Services\\IGameService.cs",
@@ -146,11 +217,12 @@
               "RelativeToolTip": "FifteenGame.Common\\Services\\IGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T20:02:43.243Z"
+              "WhenOpened": "2025-03-10T20:02:43.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "FifteenGame.Wpf\\MainWindow.xaml",
@@ -161,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "GameRepositoryTests.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.UnitTests\\RepositoryTests\\GameRepositoryTests.cs",
               "RelativeDocumentMoniker": "FifteenGame.UnitTests\\RepositoryTests\\GameRepositoryTests.cs",
@@ -174,31 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "FifteenGame.Wpf\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwBAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T06:31:11.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "app.config",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.DataAccess\\app.config",
-              "RelativeDocumentMoniker": "FifteenGame.DataAccess\\app.config",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.DataAccess\\app.config",
-              "RelativeToolTip": "FifteenGame.DataAccess\\app.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-11T16:48:04.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\App.xaml",
               "RelativeDocumentMoniker": "FifteenGame.Wpf\\App.xaml",
@@ -209,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UserLoginWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\UserLoginWindowViewModel.cs",
               "RelativeDocumentMoniker": "FifteenGame.Wpf\\ViewModels\\UserLoginWindowViewModel.cs",
@@ -221,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
@@ -229,11 +277,12 @@
               "RelativeToolTip": "FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T16:49:01.008Z"
+              "WhenOpened": "2025-08-11T16:49:01.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.DataAccess\\packages.config",
               "RelativeDocumentMoniker": "FifteenGame.DataAccess\\packages.config",
@@ -241,23 +290,23 @@
               "RelativeToolTip": "FifteenGame.DataAccess\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-11T16:48:16.872Z"
+              "WhenOpened": "2025-08-11T16:48:16.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MemoryGame.DB\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\MemoryGame.DB\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MemoryGame.DB\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "..\\MemoryGame.DB\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T16:44:56.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\App.config",
               "RelativeDocumentMoniker": "FifteenGame.Wpf\\App.config",
@@ -269,19 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CellViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
-              "RelativeToolTip": "FifteenGame.Wpf\\ViewModels\\CellViewModel.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T04:21:10.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Constants.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\Definitions\\Constants.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\Definitions\\Constants.cs",
@@ -289,11 +326,12 @@
               "RelativeToolTip": "FifteenGame.Common\\Definitions\\Constants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:27:40.44Z"
+              "WhenOpened": "2025-03-11T05:27:40.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\Dtos\\UserDto.cs",
@@ -301,11 +339,12 @@
               "RelativeToolTip": "FifteenGame.Common\\Dtos\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:27:38.653Z"
+              "WhenOpened": "2025-03-11T05:27:38.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "GameModel.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\BusinessModels\\GameModel.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\BusinessModels\\GameModel.cs",
@@ -313,11 +352,12 @@
               "RelativeToolTip": "FifteenGame.Common\\BusinessModels\\GameModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T20:08:53.43Z"
+              "WhenOpened": "2025-03-10T20:08:53.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\Services\\IUserService.cs",
@@ -325,11 +365,12 @@
               "RelativeToolTip": "FifteenGame.Common\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:27:26.883Z"
+              "WhenOpened": "2025-03-11T05:27:26.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\Repositories\\IUserRepository.cs",
@@ -337,11 +378,12 @@
               "RelativeToolTip": "FifteenGame.Common\\Repositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:24:29.342Z"
+              "WhenOpened": "2025-03-11T05:24:29.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "IGameRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\Repositories\\IGameRepository.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\Repositories\\IGameRepository.cs",
@@ -349,11 +391,12 @@
               "RelativeToolTip": "FifteenGame.Common\\Repositories\\IGameRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:24:32.598Z"
+              "WhenOpened": "2025-03-11T05:24:32.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "UserServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.UnitTests\\ServiceTests\\UserServiceTests.cs",
               "RelativeDocumentMoniker": "FifteenGame.UnitTests\\ServiceTests\\UserServiceTests.cs",
@@ -361,11 +404,12 @@
               "RelativeToolTip": "FifteenGame.UnitTests\\ServiceTests\\UserServiceTests.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAArwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:23:35.885Z"
+              "WhenOpened": "2025-03-11T05:23:35.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "GameRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
               "RelativeDocumentMoniker": "FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
@@ -373,11 +417,12 @@
               "RelativeToolTip": "FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
               "ViewState": "AgIAAMsAAAAAAAAAAAAgwBsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:35:38.337Z"
+              "WhenOpened": "2025-02-20T14:35:38.337Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\BusinessModels\\UserModel.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\BusinessModels\\UserModel.cs",
@@ -385,11 +430,12 @@
               "RelativeToolTip": "FifteenGame.Common\\BusinessModels\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:27:48.565Z"
+              "WhenOpened": "2025-03-11T05:27:48.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "MoveDirection.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\BusinessModels\\MoveDirection.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\BusinessModels\\MoveDirection.cs",
@@ -397,11 +443,12 @@
               "RelativeToolTip": "FifteenGame.Common\\BusinessModels\\MoveDirection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:27:50.109Z"
+              "WhenOpened": "2025-03-11T05:27:50.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Business\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "FifteenGame.Business\\Services\\UserService.cs",
@@ -409,11 +456,12 @@
               "RelativeToolTip": "FifteenGame.Business\\Services\\UserService.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:27:54.055Z"
+              "WhenOpened": "2025-03-11T05:27:54.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "GameDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Common\\Dtos\\GameDto.cs",
               "RelativeDocumentMoniker": "FifteenGame.Common\\Dtos\\GameDto.cs",
@@ -421,11 +469,12 @@
               "RelativeToolTip": "FifteenGame.Common\\Dtos\\GameDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T05:27:39.465Z"
+              "WhenOpened": "2025-03-11T05:27:39.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\packages.config",
               "RelativeDocumentMoniker": "FifteenGame.Wpf\\packages.config",
@@ -437,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.Wpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "FifteenGame.Wpf\\MainWindow.xaml.cs",
@@ -449,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "UserRepositoryTest.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Tic-Tac-Toe.BD\\FifteenGame.UnitTests\\RepositoryTests\\UserRepositoryTest.cs",
               "RelativeDocumentMoniker": "FifteenGame.UnitTests\\RepositoryTests\\UserRepositoryTest.cs",
@@ -457,7 +506,8 @@
               "RelativeToolTip": "FifteenGame.UnitTests\\RepositoryTests\\UserRepositoryTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T05:59:26.016Z"
+              "WhenOpened": "2025-03-10T05:59:26.016Z",
+              "EditorCaption": ""
             }
           ]
         }

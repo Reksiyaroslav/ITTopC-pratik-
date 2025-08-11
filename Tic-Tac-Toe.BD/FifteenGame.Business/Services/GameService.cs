@@ -54,9 +54,6 @@ namespace FifteenGame.Business.Services
 
         public void Initialize(GameModel model)
         {
-
-
-
             for (int row = 0; row < Constants.RowCount; row++)
             {
                 for (int column = 0; column < Constants.ColumnCount; column++)

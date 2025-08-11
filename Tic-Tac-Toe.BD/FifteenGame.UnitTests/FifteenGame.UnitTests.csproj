@@ -62,17 +62,17 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FifteenGame.Business\FifteenGame.Business.csproj">
+    <ProjectReference Include="..\FifteenGame.Business\Tic-Tac-Toe.Business.csproj">
       <Project>{31478FA4-97D5-44FB-8239-D55A6FC77500}</Project>
-      <Name>FifteenGame.Business</Name>
+      <Name>Tic-Tac-Toe.Business</Name>
     </ProjectReference>
-    <ProjectReference Include="..\FifteenGame.Common\FifteenGame.Common.csproj">
+    <ProjectReference Include="..\FifteenGame.Common\Tic-Tac-ToeCommon.csproj">
       <Project>{809EF8DA-2F01-4777-B96B-7A9DC6AF2BF9}</Project>
-      <Name>FifteenGame.Common</Name>
+      <Name>Tic-Tac-ToeCommon</Name>
     </ProjectReference>
-    <ProjectReference Include="..\FifteenGame.DataAccess\FifteenGame.DataAccess.csproj">
+    <ProjectReference Include="..\FifteenGame.DataAccess\Tic-Tac-Toe.DataAccess.csproj">
       <Project>{E397ED18-0FD1-4A53-A9D9-984C9381234D}</Project>
-      <Name>FifteenGame.DataAccess</Name>
+      <Name>Tic-Tac-Toe.DataAccess</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
