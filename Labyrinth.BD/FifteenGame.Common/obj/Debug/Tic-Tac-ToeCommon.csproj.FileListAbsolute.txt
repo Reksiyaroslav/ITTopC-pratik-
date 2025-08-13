@@ -1,0 +1,6 @@
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.BD\FifteenGame.Common\bin\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.BD\FifteenGame.Common\bin\Debug\FifteenGame.Common.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.BD\FifteenGame.Common\obj\Debug\Tic-Tac-ToeCommon.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.BD\FifteenGame.Common\obj\Debug\Tic-Tac-ToeCommon.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.BD\FifteenGame.Common\obj\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.BD\FifteenGame.Common\obj\Debug\FifteenGame.Common.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.Web\FifteenGame.Business\bin\Debug\FifteenGame.Business.dll
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.Web\FifteenGame.Business\bin\Debug\FifteenGame.Business.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.Web\FifteenGame.Business\obj\Debug\Labyrinth.Business.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.Web\FifteenGame.Business\obj\Debug\Labyrinth.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.Web\FifteenGame.Business\obj\Debug\FifteenGame.Business.dll
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.Web\FifteenGame.Business\obj\Debug\FifteenGame.Business.pdb

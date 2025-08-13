@@ -1,0 +1,124 @@
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientUnitTests.dll.config
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientUnitTests.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientUnitTests.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientProxy.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Net.Http.Json.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Text.Json.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Ninject.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientProxy.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientProxy.dll.config
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.Common.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Net.Http.Json.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Text.Json.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Ninject.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\Memory.ClientUnitTests.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\Memory.ClientUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\Memory.C.1E529F47.Up2Date
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\FifteenGame.ClientUnitTests.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\FifteenGame.ClientUnitTests.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientUnitTests.dll.config
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientUnitTests.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientUnitTests.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientProxy.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Net.Http.Json.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Text.Json.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Ninject.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientProxy.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.ClientProxy.dll.config
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\FifteenGame.Common.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Net.Http.Json.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Text.Json.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Ninject.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\Memory.ClientUnitTests.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\Memory.ClientUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\Memory.C.1E529F47.Up2Date
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\FifteenGame.ClientUnitTests.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.ClientUnitTests\obj\Debug\FifteenGame.ClientUnitTests.pdb

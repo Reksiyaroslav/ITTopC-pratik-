@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\MemoryGame.DB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|c:\\users\\pc\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ittopc-pratik-\\memorygame.db\\fifteengame.dataaccess\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|solutionrelative:fifteengame.dataaccess\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809EF8DA-2F01-4777-B96B-7A9DC6AF2BF9}|FifteenGame.Common\\FifteenGame.Common.csproj|c:\\users\\pc\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ittopc-pratik-\\memorygame.db\\fifteengame.common\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809EF8DA-2F01-4777-B96B-7A9DC6AF2BF9}|FifteenGame.Common\\FifteenGame.Common.csproj|solutionrelative:fifteengame.common\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|c:\\users\\pc\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ittopc-pratik-\\memorygame.db\\fifteengame.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\FifteenGame.DataAccess.csproj|solutionrelative:fifteengame.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\MemoryGame.DB\\FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\MemoryGame.DB\\FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:34:44.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\MemoryGame.DB\\FifteenGame.Common\\Dtos\\GameDto.cs",
+              "RelativeDocumentMoniker": "FifteenGame.Common\\Dtos\\GameDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\MemoryGame.DB\\FifteenGame.Common\\Dtos\\GameDto.cs",
+              "RelativeToolTip": "FifteenGame.Common\\Dtos\\GameDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:34:16.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\MemoryGame.DB\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\MemoryGame.DB\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T14:46:23.899Z",
               "EditorCaption": ""

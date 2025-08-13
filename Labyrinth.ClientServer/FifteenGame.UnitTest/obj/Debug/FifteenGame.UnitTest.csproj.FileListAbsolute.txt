@@ -1,0 +1,2 @@
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.UnitTest\obj\Debug\FifteenGame.UnitTest.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.UnitTest\obj\Debug\FifteenGame.UnitTest.csproj.CoreCompileInputs.cache

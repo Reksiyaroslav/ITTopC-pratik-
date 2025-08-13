@@ -1,0 +1,18 @@
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\bin\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\bin\Debug\FifteenGame.Common.pdb
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\bin\Debug\Ninject.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\bin\Debug\Ninject.xml
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\obj\Debug\Memory.Common.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\obj\Debug\Memory.Common.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\obj\Debug\Memory.C.8190FF3D.Up2Date
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\obj\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Документы\GitHub\CSharpCollege\Memory.ClientServer\FifteenGame.Common\obj\Debug\FifteenGame.Common.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\bin\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\bin\Debug\FifteenGame.Common.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\bin\Debug\Ninject.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\bin\Debug\Ninject.xml
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\obj\Debug\Memory.Common.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\obj\Debug\Memory.Common.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\obj\Debug\Memory.C.8190FF3D.Up2Date
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\obj\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Рабочий стол\Memory.ClientServer\FifteenGame.Common\obj\Debug\FifteenGame.Common.pdb

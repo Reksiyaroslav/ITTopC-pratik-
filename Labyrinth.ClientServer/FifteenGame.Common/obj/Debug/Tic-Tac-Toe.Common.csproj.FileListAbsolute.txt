@@ -1,0 +1,9 @@
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\bin\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\bin\Debug\FifteenGame.Common.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\bin\Debug\Ninject.dll
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\bin\Debug\Ninject.xml
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\obj\Debug\Tic-Tac-Toe.Common.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\obj\Debug\Tic-Tac-Toe.Common.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\obj\Debug\Tic-Tac-.066AD48F.Up2Date
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\obj\Debug\FifteenGame.Common.dll
+C:\Users\PC\OneDrive\Рабочий стол\Tic-Tac-Toe.ClientServer\FifteenGame.Common\obj\Debug\FifteenGame.Common.pdb

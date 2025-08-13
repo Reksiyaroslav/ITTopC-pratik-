@@ -1,70 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\Memory.ClientServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31478FA4-97D5-44FB-8239-D55A6FC77500}|FifteenGame.Business\\Memory.Business.csproj|c:\\users\\pc\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\csharpcollege\\memory.clientserver\\fifteengame.business\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31478FA4-97D5-44FB-8239-D55A6FC77500}|FifteenGame.Business\\Memory.Business.csproj|c:\\users\\pc\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ittopc-pratik-\\memory.clientserver\\fifteengame.business\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31478FA4-97D5-44FB-8239-D55A6FC77500}|FifteenGame.Business\\Memory.Business.csproj|solutionrelative:fifteengame.business\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\Memory.DataAccess.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.dataaccess\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\Memory.DataAccess.csproj|solutionrelative:fifteengame.dataaccess\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E866578-1812-4C28-A639-527D728083CC}|FifteenGame.WebApi\\Memory.WebApi.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.webapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E866578-1812-4C28-A639-527D728083CC}|FifteenGame.WebApi\\Memory.WebApi.csproj|solutionrelative:fifteengame.webapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E866578-1812-4C28-A639-527D728083CC}|FifteenGame.WebApi\\Memory.WebApi.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E866578-1812-4C28-A639-527D728083CC}|FifteenGame.WebApi\\Memory.WebApi.csproj|solutionrelative:fifteengame.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.common\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|solutionrelative:fifteengame.common\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.common\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|solutionrelative:fifteengame.common\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.common\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|solutionrelative:fifteengame.common\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.common\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|solutionrelative:fifteengame.common\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.common\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|solutionrelative:fifteengame.common\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.common\\businessdtos\\gamereply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|solutionrelative:fifteengame.common\\businessdtos\\gamereply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31478FA4-97D5-44FB-8239-D55A6FC77500}|FifteenGame.Business\\Memory.Business.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31478FA4-97D5-44FB-8239-D55A6FC77500}|FifteenGame.Business\\Memory.Business.csproj|solutionrelative:fifteengame.business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.common\\businessmodels\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|solutionrelative:fifteengame.common\\businessmodels\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94445312-A364-4D5E-91A0-0FEB309ECB69}|FifteenGame.Common\\Memory.Common.csproj|solutionrelative:fifteengame.common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E866578-1812-4C28-A639-527D728083CC}|FifteenGame.WebApi\\Memory.WebApi.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7E866578-1812-4C28-A639-527D728083CC}|FifteenGame.WebApi\\Memory.WebApi.csproj|solutionrelative:fifteengame.webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\Memory.DataAccess.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\Memory.DataAccess.csproj|solutionrelative:fifteengame.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:2:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\Memory.DataAccess.csproj|C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\fifteengame.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{E397ED18-0FD1-4A53-A9D9-984C9381234D}|FifteenGame.DataAccess\\Memory.DataAccess.csproj|solutionrelative:fifteengame.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,204 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GamesController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.WebApi\\Controllers\\GamesController.cs",
-              "RelativeDocumentMoniker": "FifteenGame.WebApi\\Controllers\\GamesController.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.WebApi\\Controllers\\GamesController.cs",
-              "RelativeToolTip": "FifteenGame.WebApi\\Controllers\\GamesController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAnwFsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:24:33.911Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Business\\Services\\GameService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\Memory.ClientServer\\FifteenGame.Business\\Services\\GameService.cs",
               "RelativeDocumentMoniker": "FifteenGame.Business\\Services\\GameService.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Business\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ITTopC-pratik-\\Memory.ClientServer\\FifteenGame.Business\\Services\\GameService.cs",
               "RelativeToolTip": "FifteenGame.Business\\Services\\GameService.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAnwIkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:54:13.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.WebApi\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FifteenGame.WebApi\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.WebApi\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FifteenGame.WebApi\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:57:31.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Common\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Services\\IUserService.cs",
-              "RelativeToolTip": "FifteenGame.Common\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:57:28.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGameService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Services\\IGameService.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Common\\Services\\IGameService.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Services\\IGameService.cs",
-              "RelativeToolTip": "FifteenGame.Common\\Services\\IGameService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:27:01.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Common\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "FifteenGame.Common\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:57:26.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
-              "RelativeDocumentMoniker": "FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
-              "RelativeToolTip": "FifteenGame.DataAccess\\Repositories\\GameRepository.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAlwH8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:42:22.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameDto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Dtos\\GameDto.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Common\\Dtos\\GameDto.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Dtos\\GameDto.cs",
-              "RelativeToolTip": "FifteenGame.Common\\Dtos\\GameDto.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvwkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:26:35.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IGameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Repositories\\IGameRepository.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Common\\Repositories\\IGameRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Repositories\\IGameRepository.cs",
-              "RelativeToolTip": "FifteenGame.Common\\Repositories\\IGameRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:26:58.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:59:43.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameReply.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\BusinessDtos\\GameReply.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Common\\BusinessDtos\\GameReply.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\BusinessDtos\\GameReply.cs",
-              "RelativeToolTip": "FifteenGame.Common\\BusinessDtos\\GameReply.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:25:46.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GameModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\BusinessModels\\GameModel.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Common\\BusinessModels\\GameModel.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\BusinessModels\\GameModel.cs",
-              "RelativeToolTip": "FifteenGame.Common\\BusinessModels\\GameModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:26:18.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Business\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Business\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Business\\Services\\UserService.cs",
-              "RelativeToolTip": "FifteenGame.Business\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:54:13.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Dtos\\UserDto.cs",
-              "RelativeDocumentMoniker": "FifteenGame.Common\\Dtos\\UserDto.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.Common\\Dtos\\UserDto.cs",
-              "RelativeToolTip": "FifteenGame.Common\\Dtos\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:26:54.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "FifteenGame.DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAlwDsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:28:12.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.WebApi\\Web.config",
-              "RelativeDocumentMoniker": "FifteenGame.WebApi\\Web.config",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\CSharpCollege\\Memory.ClientServer\\FifteenGame.WebApi\\Web.config",
-              "RelativeToolTip": "FifteenGame.WebApi\\Web.config",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHwAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-22T16:11:36.995Z",
+              "WhenOpened": "2025-08-11T09:26:59.107Z",
               "EditorCaption": ""
             }
           ]
