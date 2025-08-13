@@ -40,11 +40,6 @@
                 <TextBlock Text="{Binding MoveCountText}" FontSize="18" Margin="5" />
                 
             </StackPanel>  
-            <StackPanel Grid.Row="2" Orientation="Horizontal">
-                <TextBlock Text="Число пар:" FontSize="18" Margin="5" />
-                <TextBlock Text="{Binding CountParText}" FontSize="18" Margin="5" />
-                
-            </StackPanel>
         </Grid>
 
         <ItemsControl Grid.Column="1" Grid.Row="1" ItemsSource="{Binding Cells}">
@@ -71,8 +66,8 @@
             <ItemsControl.ItemTemplate>
                 <DataTemplate>
                     <Grid MouseDown="Grid_MouseDown" Tag="{Binding ColumnRow}">
-                        <Rectangle Margin="5" Stroke="{Binding BruhButon}" StrokeThickness="3" RadiusX="10" RadiusY="10" Fill="{Binding ColorButtonPen}" />
-                        <TextBlock Text="{Binding TextButoon}" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        <Rectangle Margin="5" Stroke="SeaGreen" StrokeThickness="3" RadiusX="10" RadiusY="10" Fill="PaleGoldenrod" />
+                        <TextBlock Text="{Binding Text}" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" />
                     </Grid>
                 </DataTemplate>
             </ItemsControl.ItemTemplate>
